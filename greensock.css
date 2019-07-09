@@ -1,0 +1,14 @@
+.box {
+  border: 1px white solid;
+  height: 20px;
+  width: 20px;
+  background-color: aqua;
+  display: inline-block;
+}
+.box1 {
+  border: 1px white solid;
+  height: 20px;
+  width: 20px;
+  background-color: aqua;
+  display: inline-block;
+}
